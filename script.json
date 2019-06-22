@@ -1,0 +1,17 @@
+{
+    "portal_room" :{
+        "name": "portal_room",
+        "objects": ["plinth"],
+        "characters": [],
+        "description": "Your eyes open. You stand in front of a pedastle covered with a black shrowd. Upon the pedastle there lies a straw doll with a rough canvas robe. Its robes are covered in thin black text that you cannot decipher",
+        "correspondingEvents": ["cell"]
+    },       
+    "cell": {
+        "name": "cell",
+        "objects": ["cell door"],
+        "characters": ["richie"],
+        "description": "you are in a dimly lit cell. Light is streaming through the keyhole",
+        "correspondingEvents": []
+    }
+    
+}

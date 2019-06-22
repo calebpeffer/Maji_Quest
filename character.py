@@ -1,12 +1,15 @@
-class Character()
+from random import randint
+
+class Character():
     def __init__(self, gender: bool(), tattoos, inventory = dict(), name: str(), alive = True, level = 1):
         self.gender = c.MALE
         self.level = level
-        if tattoos == None:
-            self.tattoos = generate_character(level, c.DEFAULT_SPELLS)
+        if spells == None:
+            self.spells = generate_character(level, c.DEFAULT_SPELLS)
         else:
-            self.tatoos = tatoos
-        self.gender = gender
+            self.spells = spells
+        if self.gender = None:
+            self.generate_gender()
         if inventory == None:
             self.inventory = generate_default(level, c.DEFAULT_INVENTORY)
         self.name = name
@@ -16,7 +19,12 @@ class Character()
     def mortimus(self):
         if self.alive = False:
             
-    
+    def generate_gender(self):
+        gender = randint(0,1)
+        if gender == 0:
+            self.gender = FEMALE
+        else: 
+            self.gender = MALE
 
 def generate_default(level: int(), default: dict()) -> dict():
 """generates a default character attribute from character level"""
