@@ -1,0 +1,13 @@
+<span id="a">caleb@maji</span>:<span id="b">~</span><span id="c">$</span> cd MajiQuest/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">caleb@maji</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->MajiQuest.txt<br/><br/>
+Welcome to MajiQuest<span id="k"> "Python is for everyone</span>". <!-- sjkfhskjf -->
+
+Hey There! This is Maji in the skin of a terminal.<p>You can see that, this is how your portfolio would look like.</p>
+<p>You can introduce yourself here.</p> 
+<p> You can also tell what you've worked and known and what skills you have</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can start learning right here with me. Let's create your character</p>
+
+
+
+<p>Type Start!</p>
